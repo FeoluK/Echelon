@@ -1,0 +1,10 @@
+# ninja log v5
+47	2132	7621257342603110	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	d8ce656627d57e6a
+88	2276	7621257344128543	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	389e8981fa6df484
+187	2281	7621257344183968	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	d6c2049fbf97674
+235	2398	7621257345308882	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	670ea8be71401bd7
+212	2459	7621257345951016	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	6f328fca9ac8ca10
+27	2470	7621257345996894	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	90934aae1c28f032
+2	3114	7621257352481338	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	865cb7918329426f
+133	3132	7621257352616894	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	19553207ba7ae806
+3133	3487	7621257356051340	C:/Users/drayg/OneDrive/Documents/GitHub/Solo-Leveling-Project/Solo Leveling/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3e2c534f/obj/arm64-v8a/libgame.so	8717444a1119b0b3

@@ -1,0 +1,2 @@
+C:\Users\drayg\OneDrive\Documents\GitHub\Solo-Leveling-Project\Solo Leveling\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\drayg\OneDrive\Documents\GitHub\Solo-Leveling-Project\Solo Leveling\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
