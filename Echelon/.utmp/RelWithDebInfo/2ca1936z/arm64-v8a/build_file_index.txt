@@ -1,0 +1,2 @@
+/Users/frozone/Documents/GitHub/Solo-Leveling-Project/Echelon/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/CMakeLists.txt
+/Users/frozone/Documents/GitHub/Solo-Leveling-Project/Echelon/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/CMakeLists.txt
