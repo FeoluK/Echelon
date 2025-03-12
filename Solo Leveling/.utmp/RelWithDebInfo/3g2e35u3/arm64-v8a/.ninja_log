@@ -1,0 +1,19 @@
+# ninja log v5
+795	901	1740395717658926109	/Users/frozone/Documents/GitHub/Solo-Leveling-Project/Solo Leveling/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3g2e35u3/obj/arm64-v8a/libgame.so	473fdf8cd9a46874
+0	795	1740395717556134397	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	4f09b16634726b7c
+1	595	1740395717357387862	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	eddc3239d1f6e57a
+2	696	1740395717455932833	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	6e0078ed9da5ea00
+3	577	1740395717338413382	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	8b677d927111e9f6
+2	527	1740395717288923250	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	e59a06f2d21e10b
+2	505	1740395717265752404	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	5986f65ba35b7a27
+1	530	1740395717292440411	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	5ad6ba258e87dab7
+1	499	1740395717258572636	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	4f26a145b48057c6
+3	6687	1741579283757783609	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	5986f65ba35b7a27
+2	6699	1741579283773008822	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	4f26a145b48057c6
+3	6709	1741579283783368687	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	e59a06f2d21e10b
+1	6712	1741579283786717281	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	5ad6ba258e87dab7
+3	6762	1741579283835973765	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	8b677d927111e9f6
+2	6786	1741579283860474091	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	eddc3239d1f6e57a
+2	6890	1741579283963254614	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	6e0078ed9da5ea00
+1	6960	1741579284033252454	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	4f09b16634726b7c
+6960	10647	1741579287718216378	/Users/frozone/Documents/GitHub/Solo-Leveling-Project/Solo Leveling/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3g2e35u3/obj/arm64-v8a/libgame.so	473fdf8cd9a46874
